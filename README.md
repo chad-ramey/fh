@@ -3,7 +3,6 @@
 This repository contains Python scripts designed to automate tasks related to managing FireHydrant incidents and users.
 
 ## Table of Contents
-- [FireHydrant Lab](#firehydrant-lab)
   - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
@@ -15,8 +14,8 @@ This repository contains Python scripts designed to automate tasks related to ma
 ## Scripts Overview
 Here’s a list of all the scripts in this repository along with their descriptions:
 
-1. **fh_export_incidents.py**: Exports incident data from FireHydrant, allowing for incident reporting and analysis.
-2. **fh_users.py**: Retrieves a list of all users in FireHydrant, useful for managing user roles and permissions.
+1. **[fh_export_incidents.py](fh_export_incidents.py)**: Exports incident data from FireHydrant, allowing for incident reporting and analysis.
+2. **[fh_users.py](fh_users.py)**: Retrieves a list of all users in FireHydrant, useful for managing user roles and permissions.
 
 ## Requirements
 - **Python 3.x**: Ensure that Python 3 is installed on your system.
