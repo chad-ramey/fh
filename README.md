@@ -3,7 +3,6 @@
 This repository contains Python scripts designed to automate tasks related to managing FireHydrant incidents and users.
 
 ## Table of Contents
-  - [Table of Contents](#table-of-contents)
   - [Scripts Overview](#scripts-overview)
   - [Requirements](#requirements)
   - [Installation](#installation)
